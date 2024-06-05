@@ -2,7 +2,7 @@
 - 👀 I’m interested in edtech, natural language processing, AI
 - 🌱 I’m currently learning python and generative AI
 - 💞️ I’m looking to collaborate on anything educational and artisic 
-- 📫 How to reach me
+- 📫 How to reach me https://www.linkedin.com/in/claire-correo-nettleton-phd-a555a445
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have a Ph.D. in French
 
