@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @Clairenm
+- 👀 I’m interested in edtech, natural language processing, AI
+- 🌱 I’m currently learning python and generative AI
+- 💞️ I’m looking to collaborate on anything educational and artisic 
+- 📫 How to reach me
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I have a Ph.D. in French
+
+<!---
+Clairenm/Clairenm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
